@@ -36,7 +36,7 @@ title: ACUPen Presentation
 
 # Machine learning model
 
-## XGBoost: eXtreme Gradient Boosting 
+## XGBoost: eXtreme Gradient Boosting
 
 - Supervised learning
 - Combination of many algorithms
@@ -44,7 +44,7 @@ title: ACUPen Presentation
 
 ## Feature importance
 
-![feature-importance](resources/feature_importance.png)
+![feature-importance](resources/feature_importance.png){ width=50% }
 
 ## Tuning the model
 
@@ -60,7 +60,7 @@ title: ACUPen Presentation
 
 ## Confusion matrix
 
-![Confusion matrix](resources/matrix_confusion.png)
+![Confusion matrix](resources/matrix_confusion.png){ width=50% }
 
 # Conclusion
 
