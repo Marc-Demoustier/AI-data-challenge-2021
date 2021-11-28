@@ -27,7 +27,7 @@ title: ACUPen Presentation
 - Change strings into usable format (boolean, integers, float, etc.)
 - Hierarchy for the severity of each zones and the outcome
 - Columns dropped: low correlation/too much missing data
-- Imputation of missing data 
+- Imputation of missing data
 
 ## Tackling class imbalance
 
@@ -41,6 +41,10 @@ title: ACUPen Presentation
 - Supervised learning
 - Combination of many algorithms
 - Weak learners become strong learners
+
+## Feature importance
+
+![feature-importance](resources/feature_importance.png)
 
 ## Tuning the model
 
@@ -56,7 +60,7 @@ title: ACUPen Presentation
 
 ## Confusion matrix
 
-- //TODO insert confusion matrix image
+![Confusion matrix](resources/matrix_confusion.png)
 
 # Conclusion
 
